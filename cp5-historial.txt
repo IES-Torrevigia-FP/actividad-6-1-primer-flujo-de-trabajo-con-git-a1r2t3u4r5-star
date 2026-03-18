@@ -1,0 +1,15 @@
+5f07131 Completa conceptos básicos de flujo en Git
+7e6dae6 Actualiza cp3-staging y añade cp4-primer-commit
+6903251 Añade checkpoint 2 actualizado y checkpoint 3 de staging
+be8c3ee Añade checkpoint 2 con estado inicial
+a063d61 Completa conceptos básicos de flujo en Git
+dd9691a Añade contenido inicial de notas de Git
+42a7e99 Añade archivo inicial de notas y evidencia del checkpoint 1
+ba62176 add deadline
+9b8acc7 Initial commit
+
+
+Número de commits: 9
+
+Diferencia entre el primer y segundo commit:
+El primer commit (Initial commit) crea la base del repositorio, mientras que el segundo commit (add deadline) añade los primeros cambios concretos al proyecto.
