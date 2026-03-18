@@ -12,3 +12,6 @@ Archivos sin seguimiento:
 	cp3-staging.txt
 
 sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+Untracked: significa que Git detecta el archivo en tu directorio de trabajo, pero aún no lo está siguiendo ni lo incluirá en ningún commit. Es básicamente un archivo “nuevo” para Git.
+
+Staging (preparado para commit): significa que el archivo ya ha sido añadido al área de staging con git add y está listo para formar parte del próximo commit. Los cambios en staging son controlados, pero todavía no permanentes hasta hacer git commit

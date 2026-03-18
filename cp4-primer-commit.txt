@@ -1,0 +1,11 @@
+6903251 Añade checkpoint 2 actualizado y checkpoint 3 de staging
+be8c3ee Añade checkpoint 2 con estado inicial
+a063d61 Completa conceptos básicos de flujo en Git
+dd9691a Añade contenido inicial de notas de Git
+42a7e99 Añade archivo inicial de notas y evidencia del checkpoint 1
+ba62176 add deadline
+9b8acc7 Initial commit
+
+Es importante escribir mensajes de commit claros porque cada commit representa un cambio específico en el proyecto. 
+Mensajes descriptivos permiten entender rápidamente qué se hizo en cada commit, ayudan a mantener un historial ordenado 
+y facilitan la colaboración con otros miembros del equipo.
