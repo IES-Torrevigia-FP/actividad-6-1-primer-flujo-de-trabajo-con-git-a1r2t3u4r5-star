@@ -10,3 +10,4 @@ Archivos sin seguimiento:
 	cp2-estado-inicial.txt
 	notas-git.md
 
+Un archivo untracked es un archivo que Git detecta en el directorio de trabajo, pero que aún no está siendo seguido ni incluido en el historial del repositorio. Para que Git empiece a controlarlo, es necesario usar el comando git add.
